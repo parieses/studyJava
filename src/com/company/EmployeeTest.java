@@ -1,0 +1,21 @@
+package com.company;
+
+import java.io.*;
+class EmployeeTest{
+    public static void main(String[] args){
+        /* ??ù????????????????? */
+        Employee empOne = new Employee("RUNOOB1");
+        Employee empTwo = new Employee("RUNOOB2");
+
+        // ?????????????????????
+        empOne.setAge(26);
+        empOne.setDesignation("????????");
+        empOne.setSalary(1000);
+        empOne.printEmployee();
+
+        empTwo.setAge(21);
+        empTwo.setDesignation("????????");
+        empTwo.setSalary(500);
+        empTwo.printEmployee();
+    }
+}
