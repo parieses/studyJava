@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4da978d8-2446-4e76-b749-eaa69e5a5082" name="默认更改列表" comment="" />
+    <list default="true" id="4da978d8-2446-4e76-b749-eaa69e5a5082" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/day07/Farmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/day07/JDKLogging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/day07/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/day07/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/day07/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/day07/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/day07/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/test/JavaBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/test/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/test/TestPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/test/TestTriAngle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/test/ThisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/test/TriAngle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IdeaProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Obj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Obj.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,71 +50,50 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ZypMlkVez1BMdlkawo0wEB3OdD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-8.0.19.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/day07" />
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="Template Data Languages" />
   </component>
-  <component name="RunManager" selected="Application.Obj">
-    <configuration name="BRRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.BRRead" />
-      <module name="IdeaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.JavaError" />
-      <module name="IdeaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Self\IdeaProjects\src\com\company\day07" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.test">
     <configuration name="NewT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.NewT" />
-      <module name="IdeaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NewTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.NewTest" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
@@ -119,13 +118,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.test.Test" />
+      <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTriAngle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.test.TestTriAngle" />
+      <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.day07.test" />
+      <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.day07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestTriAngle" />
         <item itemvalue="Application.Obj" />
         <item itemvalue="Application.NewT" />
-        <item itemvalue="Application.NewTest" />
-        <item itemvalue="Application.JavaError" />
-        <item itemvalue="Application.BRRead" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +189,9 @@
       <workItem from="1586318300356" duration="10753000" />
       <workItem from="1586397569409" duration="4402000" />
       <workItem from="1586482291055" duration="17623000" />
-      <workItem from="1586567870013" duration="10645000" />
+      <workItem from="1586567870013" duration="13173000" />
+      <workItem from="1586590559179" duration="7712000" />
+      <workItem from="1586741854000" duration="7691000" />
     </task>
     <servers />
   </component>
@@ -163,14 +203,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586332313830" />
-    <state x="796" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586325233780">
+    <state x="796" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586744692450">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="796" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1586325233780" />
-    <state x="753" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1586574047754">
+    <state x="796" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1586744692450" />
+    <state x="753" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1586748868709">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="753" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1586574047754" />
+    <state x="753" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1586748868709" />
     <state x="779" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1586332211796">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -179,30 +219,30 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="184" key="#更新/0.0.1920.1050@0.0.1920.1050" timestamp="1585821326669" />
-    <state x="552" y="183" key="#项目结构" timestamp="1586246912954">
+    <state x="552" y="183" key="#项目结构" timestamp="1586744657833">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="183" key="#项目结构/0.0.1920.1050@0.0.1920.1050" timestamp="1586246912954" />
-    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1586332117229">
+    <state x="552" y="183" key="#项目结构/0.0.1920.1050@0.0.1920.1050" timestamp="1586744657833" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1586743778153">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1586332117229" />
-    <state width="915" height="145" key="GridCell.Tab.0.bottom" timestamp="1586587115044">
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1586743778153" />
+    <state width="1876" height="142" key="GridCell.Tab.0.bottom" timestamp="1586745716680">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="915" height="145" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586587115044" />
-    <state width="915" height="145" key="GridCell.Tab.0.center" timestamp="1586587115043">
+    <state width="1876" height="142" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586745716680" />
+    <state width="1876" height="142" key="GridCell.Tab.0.center" timestamp="1586745716680">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="915" height="145" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586587115043" />
-    <state width="915" height="145" key="GridCell.Tab.0.left" timestamp="1586587115043">
+    <state width="1876" height="142" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586745716680" />
+    <state width="1876" height="142" key="GridCell.Tab.0.left" timestamp="1586745716680">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="915" height="145" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586587115043" />
-    <state width="915" height="145" key="GridCell.Tab.0.right" timestamp="1586587115044">
+    <state width="1876" height="142" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586745716680" />
+    <state width="1876" height="142" key="GridCell.Tab.0.right" timestamp="1586745716680">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="915" height="145" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586587115044" />
+    <state width="1876" height="142" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586745716680" />
     <state width="1876" height="352" key="GridCell.Tab.1.bottom" timestamp="1585895707841">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -223,10 +263,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1050@0.0.1920.1050" timestamp="1586332201165" />
-    <state x="333" y="138" key="SettingsEditor" timestamp="1586499462062">
+    <state x="344" y="183" key="SettingsEditor" timestamp="1586743790983">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="333" y="138" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1586499462062" />
+    <state x="344" y="183" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1586743790983" />
     <state x="663" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1585821375284">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
