@@ -1,11 +1,15 @@
 package com.company.day07;
 
 public class Student extends Person {
-    String school;
+    public String school;
 
     public Student(String name, int age, int sex, String school) {
         super(name, age, sex);
         this.school = school;
+    }
+
+    public Student() {
+        super();
     }
 
     @Override

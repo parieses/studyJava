@@ -1,14 +1,18 @@
 package com.company.day07;
 
 public class Person {
-    String name;
-    int age;
-    int sex;
+    public String name;
+    public int age;
+    public int sex;
 
     public Person(String name, int age, int sex) {
         this.name = name;
         this.age = age;
         this.sex = sex;
+    }
+
+    public Person() {
+
     }
 
     public void printInfo() {
