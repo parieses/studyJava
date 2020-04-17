@@ -21,5 +21,9 @@ public class Test {
             }
         };
         System.out.println(p2.name);
+        SCTeacher sct = new SCTeacher();
+        //可以通过接口来实现对象但是别的属性无法访问
+        //对象的多态
+        Cooking sct1 = new SCTeacher();
     }
 }
