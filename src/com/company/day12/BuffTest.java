@@ -3,16 +3,17 @@ package com.company.day12;
 import java.io.*;
 
 public class BuffTest {
-    private static String inPath = "E:\\Self\\IdeaProjects\\src\\com\\company\\day12\\tt.txt";
+    private static String inPath = "E:\\Self\\IdeaProjects\\src\\com\\company\\day12\\tt7.txt";
     private static String outPath = "E:\\Self\\IdeaProjects\\src\\com\\company\\day12\\tt1.txt";
 
     public static void main(String[] args) {
         try {
-//            testBufferedInputStream();
+            testBufferedInputStream();
 //            testBufferedOutputStream();
 //            testBufferedReader();
 //            testBufferedWriter();
-            copyBufferedStream();
+//            copyBufferedStream();
+            copyBuffered();
         } catch (Exception e) {
             e.printStackTrace();
 
@@ -24,7 +25,7 @@ public class BuffTest {
         FileInputStream in = new FileInputStream(BuffTest.inPath);
         //把文件字节流放到缓冲字节输入流
         BufferedInputStream bin = new BufferedInputStream(in);
-        byte[] b = new byte[10];//设置一个数组
+        byte[] b = new byte[1024];//设置一个数组
         int len = 0;
         while ((len = bin.read(b)) != -1) {
             System.out.println(new String(b, 0, len));
@@ -82,9 +83,22 @@ public class BuffTest {
         String str = "wadwadwadawd w下文安德瓦达瓦";
         bfr.write(str);
         bfr.close();
+        fw.close();
     }
 
-    public static void copyBuffered() {
-
+    public static void copyBuffered() throws IOException {
+        FileReader fr = new FileReader(BuffTest.inPath);
+        BufferedReader bfr = new BufferedReader(fr);
+        FileWriter fw = new FileWriter("E:\\Self\\IdeaProjects\\src\\com\\company\\day12\\tt2.txt");
+        BufferedWriter bfw = new BufferedWriter(fw);
+        char[] buffer = new char[100];
+        int len = 0;
+        while ((len = bfr.read(buffer)) != -1) {
+            bfw.write(buffer, 0, len);
+        }
+        bfw.close();
+        fw.close();
+        bfr.close();
+        fr.close();
     }
 }

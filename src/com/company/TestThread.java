@@ -1,10 +1,12 @@
+package com.company;
+
 class RunnableDemo implements Runnable {
     private Thread t;
     private String threadName;
 
-    RunnableDemo( String name) {
+    RunnableDemo(String name) {
         threadName = name;
-        System.out.println("Creating " +  threadName );
+        System.out.println("Creating " + threadName);
     }
 
     public void run() {
@@ -12,7 +14,7 @@ class RunnableDemo implements Runnable {
         try {
             for(int i = 4; i > 0; i--) {
                 System.out.println("Thread: " + threadName + ", " + i);
-                // ÈÃÏß³ÌË¯ÃßÒ»»á
+                // ï¿½ï¿½ï¿½ß³ï¿½Ë¯ï¿½ï¿½Ò»ï¿½ï¿½
                 Thread.sleep(50);
             }
         }catch (InterruptedException e) {
