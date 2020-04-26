@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4da978d8-2446-4e76-b749-eaa69e5a5082" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Study/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Study/source/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day12/ChangeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day12/INOrOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day12/ObjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day12/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day12/RanddomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day12/t10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day12/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day12/tt7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day14/ITest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day14/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day14/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day14/ProxyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day14/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day14/Study.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day14/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day14/TestDemoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day14/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day15/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day15/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day15/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day15/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day15/TestRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day15/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/TestThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TestThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/day12/BuffTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/day12/BuffTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/day12/tt2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/day12/tt2.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +74,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -110,7 +82,7 @@
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -132,7 +104,20 @@
       <recent name="com.company.day07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test3">
+  <component name="RunManager" selected="Application.BRRead">
+    <configuration name="BRRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.BRRead" />
+      <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.day15.Test" />
       <module name="IdeaProjects" />
@@ -185,26 +170,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.day09.TestThread" />
-      <module name="IdeaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.day09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BRRead" />
         <item itemvalue="Application.Test3" />
         <item itemvalue="Application.Test2 (1)" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TestThread" />
       </list>
     </recent_temporary>
   </component>
@@ -241,6 +213,14 @@
       <workItem from="1587351368705" duration="13608000" />
       <workItem from="1587431604854" duration="6393000" />
       <workItem from="1587536197331" duration="18000" />
+      <workItem from="1587540772747" duration="238000" />
+      <workItem from="1587632990178" duration="102000" />
+      <workItem from="1587690216089" duration="14108000" />
+      <workItem from="1587863309834" duration="390000" />
+      <workItem from="1587864776763" duration="10000" />
+      <workItem from="1587864961684" duration="33000" />
+      <workItem from="1587865070569" duration="14000" />
+      <workItem from="1587865180826" duration="3049000" />
     </task>
     <task id="LOCAL-00001" summary="添加README">
       <created>1586756774464</created>
@@ -263,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587086102723</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="完结">
+      <created>1587540825689</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587540825689</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,7 +270,8 @@
     <MESSAGE value="添加README" />
     <MESSAGE value="测试javadoc并增加相关注释" />
     <MESSAGE value="测试IO" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试IO" />
+    <MESSAGE value="完结" />
+    <option name="LAST_COMMIT_MESSAGE" value="完结" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -300,14 +288,18 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="796" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1586744692450" />
+    <state x="593" y="356" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1587863459634">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="593" y="356" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1920.1050@0.0.1920.1050" timestamp="1587863459634" />
     <state x="753" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1587468514565">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="753" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1587468514565" />
-    <state x="779" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1586332211796">
+    <state x="779" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1587711921645">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="779" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586332211796" />
+    <state x="779" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1587711921645" />
     <state x="690" y="271" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586761523226">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -324,30 +316,30 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="672" y="388" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1050@0.0.1920.1050" timestamp="1586917874726" />
-    <state x="575" y="117" key="CommitChangelistDialog2" timestamp="1587086098137">
+    <state x="575" y="117" key="CommitChangelistDialog2" timestamp="1587540821162">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="575" y="117" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1587086098137" />
+    <state x="575" y="117" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1587540821162" />
     <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1587536212852">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1587536212852" />
-    <state width="913" height="350" key="GridCell.Tab.0.bottom" timestamp="1587469053729">
+    <state width="913" height="112" key="GridCell.Tab.0.bottom" timestamp="1587633091979">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="913" height="350" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587469053729" />
-    <state width="913" height="350" key="GridCell.Tab.0.center" timestamp="1587469053729">
+    <state width="913" height="112" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587633091979" />
+    <state width="913" height="112" key="GridCell.Tab.0.center" timestamp="1587633091979">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="913" height="350" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587469053729" />
-    <state width="913" height="350" key="GridCell.Tab.0.left" timestamp="1587469053729">
+    <state width="913" height="112" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587633091979" />
+    <state width="913" height="112" key="GridCell.Tab.0.left" timestamp="1587633091978">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="913" height="350" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587469053729" />
-    <state width="913" height="350" key="GridCell.Tab.0.right" timestamp="1587469053729">
+    <state width="913" height="112" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587633091978" />
+    <state width="913" height="112" key="GridCell.Tab.0.right" timestamp="1587633091979">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="913" height="350" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587469053729" />
+    <state width="913" height="112" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587633091979" />
     <state width="913" height="350" key="GridCell.Tab.1.bottom" timestamp="1587469053539">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -380,14 +372,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="670" y="240" key="MultipleFileMergeDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586756836878" />
-    <state x="344" y="183" key="SettingsEditor" timestamp="1586918595126">
+    <state x="344" y="183" key="SettingsEditor" timestamp="1587633084714">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="344" y="183" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1586918595126" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1587086116495">
+    <state x="344" y="183" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1587633084714" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1587540831759">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1587086116495" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1587540831759" />
     <state x="663" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1585821375284">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -427,6 +419,13 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/BRRead.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint enabled="true" type="java-exception" />
       </default-breakpoints>
