@@ -1,12 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4da978d8-2446-4e76-b749-eaa69e5a5082" name="默认更改列表" comment="java时间相关类库">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/date/CalendarDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/date/DateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/date/Test.java" afterDir="false" />
+    <list default="true" id="4da978d8-2446-4e76-b749-eaa69e5a5082" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DeBugDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/CollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/IntegerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/ListDemo/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/MapDemo/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/ParameterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/SetDemo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/SetDemo/SetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/StringBuilderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/exceptions/CustomExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/exceptions/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/exceptions/UnusualDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/file/FileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/genericityDemo/GenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/genericityDemo/GenericInterFace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/genericityDemo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/lambda表达式/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/lambda表达式/Cook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/lambda表达式/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/lambda表达式/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/system/SystemDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/DemoThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/MaiPiaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/MaiPiaoImpl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/MaiPiaoImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/MaiPiaoImplLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/ThreadSafety.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/WaitAndNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/WaitAndNotify2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/斗地主/Landlords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/斗地主/Landlords1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/斗地主/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLearning/线程池/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondLearning/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondLearning/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +72,8 @@
         <option value="Tag Library Descriptor" />
         <option value="AnnotationType" />
         <option value="Enum" />
-        <option value="Interface" />
         <option value="JavaFXApplication" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -61,6 +93,23 @@
       <set>
         <option value="https://github.com/parieses/studyJava.git" />
       </set>
+    </option>
+  </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="anonymousApexSettings">
+          <AnonymousApexSettings>
+            <option name="savedDocuments">
+              <list>
+                <AnonymousApexSavedDocument>
+                  <option name="name" value="Anonymous Apex 1" />
+                </AnonymousApexSavedDocument>
+              </list>
+            </option>
+          </AnonymousApexSettings>
+        </option>
+      </ProjectWorkspaceSettings>
     </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -100,11 +149,11 @@
       <recent name="E:\Self\IdeaProjects\src\secondLearning\red\pic" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="secondLearning.多线程" />
       <recent name="secondLearning.bookDemo" />
       <recent name="secondLearning.interFaceDemo" />
       <recent name="secondLearning.sendredbag" />
       <recent name="secondLearning.demo1" />
-      <recent name="com.company.day09" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Self\IdeaProjects\src\secondLearning" />
@@ -114,13 +163,13 @@
       <recent name="E:\Self\IdeaProjects\src\com\company\day07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalendarDemo">
-    <configuration name="BootStrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondLearning.红包案例.BootStrap" />
+  <component name="RunManager" selected="Application.FileDemo">
+    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondLearning.lambda表达式.Demo" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secondLearning.红包案例.*" />
+          <option name="PATTERN" value="secondLearning.lambda表达式.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalendarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondLearning.date.CalendarDemo" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondLearning.线程池.Demo" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secondLearning.date.*" />
+          <option name="PATTERN" value="secondLearning.线程池.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondLearning.date.DateDemo" />
+    <configuration name="FileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondLearning.file.FileDemo" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secondLearning.date.*" />
+          <option name="PATTERN" value="secondLearning.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondLearning.InnerClass.Test" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondLearning.多线程.Test" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secondLearning.InnerClass.*" />
+          <option name="PATTERN" value="secondLearning.多线程.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondLearning.date.Test" />
+    <configuration name="WaitAndNotify2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondLearning.多线程.WaitAndNotify2" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secondLearning.date.*" />
+          <option name="PATTERN" value="secondLearning.多线程.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalendarDemo" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.DateDemo" />
-        <item itemvalue="Application.BootStrap" />
-        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.FileDemo" />
+        <item itemvalue="Application.Demo (1)" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.WaitAndNotify2" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +288,16 @@
       <workItem from="1588833400981" duration="6501000" />
       <workItem from="1588902965307" duration="4497000" />
       <workItem from="1589010662883" duration="4790000" />
-      <workItem from="1589159564726" duration="11117000" />
+      <workItem from="1589159564726" duration="14827000" />
+      <workItem from="1589278537680" duration="4915000" />
+      <workItem from="1589350788699" duration="12060000" />
+      <workItem from="1589442691030" duration="9542000" />
+      <workItem from="1589527509038" duration="4995000" />
+      <workItem from="1589771878336" duration="2504000" />
+      <workItem from="1589850956503" duration="21743000" />
+      <workItem from="1589956796516" duration="2849000" />
+      <workItem from="1590025047237" duration="14476000" />
+      <workItem from="1590115501979" duration="2769000" />
     </task>
     <task id="LOCAL-00001" summary="添加README">
       <created>1586756774464</created>
@@ -283,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589165434066</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="java时间相关类库">
+      <created>1589179465401</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589179465401</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,7 +371,8 @@
     <MESSAGE value="测试IO" />
     <MESSAGE value="完结" />
     <MESSAGE value="第二遍JAVA学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二遍JAVA学习" />
+    <MESSAGE value="java时间相关类库" />
+    <option name="LAST_COMMIT_MESSAGE" value="java时间相关类库" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -327,10 +393,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="593" y="356" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1920.1050@0.0.1920.1050" timestamp="1587863459634" />
-    <state x="753" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1589164523927">
+    <state x="753" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1590116047779">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="753" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1589164523927" />
+    <state x="753" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1590116047779" />
     <state x="779" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1587895243337">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -339,6 +405,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="462" y="251" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1588122176607" />
+    <state x="1170" y="275" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1590116066761">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1170" y="275" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590116066761" />
     <state x="690" y="271" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586761523226">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -363,38 +433,38 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1587536212852" />
-    <state width="913" height="191" key="GridCell.Tab.0.bottom" timestamp="1589179397417">
+    <state width="913" height="212" key="GridCell.Tab.0.bottom" timestamp="1590118235265">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="913" height="191" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589179397417" />
-    <state width="913" height="191" key="GridCell.Tab.0.center" timestamp="1589179397417">
+    <state width="913" height="212" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590118235265" />
+    <state width="913" height="212" key="GridCell.Tab.0.center" timestamp="1590118235265">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="913" height="191" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589179397417" />
-    <state width="913" height="191" key="GridCell.Tab.0.left" timestamp="1589179397417">
+    <state width="913" height="212" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590118235265" />
+    <state width="913" height="212" key="GridCell.Tab.0.left" timestamp="1590118235265">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="913" height="191" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589179397417" />
-    <state width="913" height="191" key="GridCell.Tab.0.right" timestamp="1589179397417">
+    <state width="913" height="212" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590118235265" />
+    <state width="913" height="212" key="GridCell.Tab.0.right" timestamp="1590118235265">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="913" height="191" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589179397417" />
-    <state width="913" height="347" key="GridCell.Tab.1.bottom" timestamp="1588124062559">
+    <state width="913" height="212" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590118235265" />
+    <state width="913" height="347" key="GridCell.Tab.1.bottom" timestamp="1589859789581">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="913" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1588124062559" />
-    <state width="913" height="347" key="GridCell.Tab.1.center" timestamp="1588124062559">
+    <state width="913" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589859789581" />
+    <state width="913" height="347" key="GridCell.Tab.1.center" timestamp="1589859789581">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="913" height="347" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1588124062559" />
-    <state width="913" height="347" key="GridCell.Tab.1.left" timestamp="1588124062559">
+    <state width="913" height="347" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589859789581" />
+    <state width="913" height="347" key="GridCell.Tab.1.left" timestamp="1589859789581">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="913" height="347" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1588124062559" />
-    <state width="913" height="347" key="GridCell.Tab.1.right" timestamp="1588124062559">
+    <state width="913" height="347" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589859789581" />
+    <state width="913" height="347" key="GridCell.Tab.1.right" timestamp="1589859789581">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="913" height="347" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1588124062559" />
+    <state width="913" height="347" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589859789581" />
     <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1586332201165">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -411,10 +481,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="670" y="240" key="MultipleFileMergeDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586756836878" />
-    <state x="636" y="172" key="SettingsEditor" timestamp="1589010739843">
+    <state x="636" y="172" key="SettingsEditor" timestamp="1590025679314">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="636" y="172" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1589010739842" />
+    <state x="636" y="172" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1590025679314" />
     <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1589165450159">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -427,14 +497,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="752" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1587873386277" />
-    <state x="511" y="261" width="897" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586769479472">
+    <state x="511" y="261" width="897" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1589859785232">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="511" y="261" width="897" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1050@0.0.1920.1050" timestamp="1586769479472" />
-    <state x="644" y="124" width="632" height="801" key="find.popup" timestamp="1588756927119">
+    <state x="511" y="261" width="897" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1050@0.0.1920.1050" timestamp="1589859785232" />
+    <state x="644" y="124" width="632" height="801" key="find.popup" timestamp="1590061433479">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="644" y="124" width="632" height="801" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1588756927119" />
+    <state x="644" y="124" width="632" height="801" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1590061433479" />
     <state x="334" y="134" key="new project wizard" timestamp="1587950688330">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -443,10 +513,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="702" y="152" key="refactoring.ChangeSignatureDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1587002885127" />
-    <state x="616" y="243" key="run.anything.popup" timestamp="1588040717463">
+    <state x="616" y="243" key="run.anything.popup" timestamp="1589869616542">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1588040717463" />
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1589869616542" />
     <state x="150" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1587092457119">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -463,6 +533,11 @@
           <url>file://$PROJECT_DIR$/src/com/company/BRRead.java</url>
           <line>9</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DeBugDemo.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
