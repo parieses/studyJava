@@ -1,44 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4da978d8-2446-4e76-b749-eaa69e5a5082" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DeBugDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/CollectionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/IntegerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/ListDemo/ListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/MapDemo/MapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/ParameterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/SetDemo/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/SetDemo/SetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/StringBuilderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/exceptions/CustomExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/exceptions/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/exceptions/UnusualDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/file/FileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/genericityDemo/GenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/genericityDemo/GenericInterFace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/genericityDemo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/lambda表达式/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/lambda表达式/Cook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/lambda表达式/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/lambda表达式/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/system/SystemDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/DemoThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/MaiPiaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/MaiPiaoImpl1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/MaiPiaoImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/MaiPiaoImplLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/ThreadSafety.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/WaitAndNotify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/多线程/WaitAndNotify2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/斗地主/Landlords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/斗地主/Landlords1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/斗地主/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondLearning/线程池/Demo.java" afterDir="false" />
+    <list default="true" id="4da978d8-2446-4e76-b749-eaa69e5a5082" name="默认更改列表" comment="线程">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secondLearning/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondLearning/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondLearning/file/FileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondLearning/file/FileDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -297,7 +262,8 @@
       <workItem from="1589850956503" duration="21743000" />
       <workItem from="1589956796516" duration="2849000" />
       <workItem from="1590025047237" duration="14476000" />
-      <workItem from="1590115501979" duration="2769000" />
+      <workItem from="1590115501979" duration="3780000" />
+      <workItem from="1590457300043" duration="15635000" />
     </task>
     <task id="LOCAL-00001" summary="添加README">
       <created>1586756774464</created>
@@ -348,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589179465401</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="线程">
+      <created>1590118346203</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590118346203</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,7 +345,8 @@
     <MESSAGE value="完结" />
     <MESSAGE value="第二遍JAVA学习" />
     <MESSAGE value="java时间相关类库" />
-    <option name="LAST_COMMIT_MESSAGE" value="java时间相关类库" />
+    <MESSAGE value="线程" />
+    <option name="LAST_COMMIT_MESSAGE" value="线程" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -393,10 +367,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="593" y="356" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1920.1050@0.0.1920.1050" timestamp="1587863459634" />
-    <state x="753" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1590116047779">
+    <state x="753" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1590487797929">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="753" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1590116047779" />
+    <state x="753" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1590487797929" />
     <state x="779" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1587895243337">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -425,30 +399,30 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="672" y="388" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1050@0.0.1920.1050" timestamp="1586917874726" />
-    <state x="452" y="141" width="769" height="758" key="CommitChangelistDialog2" timestamp="1589179462336">
+    <state x="452" y="141" width="769" height="758" key="CommitChangelistDialog2" timestamp="1590118460567">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="452" y="141" width="769" height="758" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1589179462336" />
+    <state x="452" y="141" width="769" height="758" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1590118460567" />
     <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1587536212852">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1587536212852" />
-    <state width="913" height="212" key="GridCell.Tab.0.bottom" timestamp="1590118235265">
+    <state width="913" height="212" key="GridCell.Tab.0.bottom" timestamp="1590489016747">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="913" height="212" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590118235265" />
-    <state width="913" height="212" key="GridCell.Tab.0.center" timestamp="1590118235265">
+    <state width="913" height="212" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590489016747" />
+    <state width="913" height="212" key="GridCell.Tab.0.center" timestamp="1590489016747">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="913" height="212" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590118235265" />
-    <state width="913" height="212" key="GridCell.Tab.0.left" timestamp="1590118235265">
+    <state width="913" height="212" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590489016747" />
+    <state width="913" height="212" key="GridCell.Tab.0.left" timestamp="1590489016747">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="913" height="212" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590118235265" />
-    <state width="913" height="212" key="GridCell.Tab.0.right" timestamp="1590118235265">
+    <state width="913" height="212" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590489016747" />
+    <state width="913" height="212" key="GridCell.Tab.0.right" timestamp="1590489016747">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="913" height="212" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590118235265" />
+    <state width="913" height="212" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590489016747" />
     <state width="913" height="347" key="GridCell.Tab.1.bottom" timestamp="1589859789581">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -538,6 +512,11 @@
           <url>file://$PROJECT_DIR$/src/DeBugDemo.java</url>
           <line>2</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/secondLearning/file/FileDemo.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
